@@ -12,9 +12,9 @@ section nav {
     padding: 2rem;
 }
 
-footer {
-    background-color: #454545;
-    padding: 2rem;
+    footer {
+        background-color: #454545;
+        padding:  2rem;
 }
 
 .produto h3 {
@@ -48,3 +48,12 @@ footer {
         min-height: 236px;
     }
 }
+.login{
+ background: #f4f4f4 ;
+margin: 0 auto;
+padding: 20px;
+text-align: center;
+margin-top: 100px;
+}
+
+
