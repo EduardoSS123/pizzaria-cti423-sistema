@@ -41,11 +41,11 @@ header ul {
 
 @media (min-width: 576px) {
     main {
-        height: calc(100vh - 300px);
+        height: calc(100vh - 153px);
         overflow: auto;
     }
     footer {
-        min-height: 236px;
+        
     }
 }
 .login{
